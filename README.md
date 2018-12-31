@@ -10,6 +10,8 @@ yarn install
 yarn run serve
 ```
 
+Then Access `http://localhost:8080/game`
+
 ### Compiles and minifies for production
 ```
 yarn run build
